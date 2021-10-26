@@ -1,0 +1,48 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* --- Backgrounds --- */
+.green-bg {
+    background-color: #C8F73A;
+}
+.gray-bg {
+    background-color: #F9F9F9;
+}
+
+/* --- Header --- */
+.hero-section .headline {
+    font-size:3rem;
+}
+@media only screen and (max-width: 600px) {
+    .hero-section .headline {
+        font-size:1.8rem;
+    }
+}
+
+/* --- Texts --- */
+.text {
+    color: #6B6B6B;
+    font-size: 1.1em;
+}
+h2 {font-size:2.5rem !important}
+
+/* --- Buttons --- */
+#join-waiting-list {
+    text-align: center;
+}
+
+/* --- MailChimp --- */
+div#edi-micv7bp{font-family: Nunito, Arial, sans-serif;}
+						
+#mc_embed_signup{background:#C8F73A; clear:left; font:14px Helvetica,Arial,sans-serif; }
+
+#mc_embed_signup .button{background-color: #dc3545;font-family: Nunito, Arial, sans-serif;font-weight: bold;font-size: 20px;height: 50px;padding: 10px 28px;}
+
+#mc_embed_signup .button:hover{background-color: #97032C;}
+
+#mc_embed_signup .mc-field-group input{font-family: Nunito, Arial, sans-serif;font-size: 17px;}
+
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error{font-family: Nunito, Arial, sans-serif;}
+
+#mc_embed_signup div.response{font-family: Nunito, Arial, sans-serif;font-size: 16px;}
