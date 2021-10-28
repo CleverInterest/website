@@ -50,6 +50,7 @@ div#edi-micv7bp{
     font-size: 20px !important;
     height: 50px !important;
     padding: 10px 28px !important;
+    border-radius: 30px !important;
 }
 
 #mc_embed_signup .button:hover{
